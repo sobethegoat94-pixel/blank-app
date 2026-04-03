@@ -1,0 +1,775 @@
+[
+  {
+    "frage": "Wenn eine Weiche, die durch eine Zugfahrt befahren werden soll, mit HV73 gesichert ist und die Sperrvorrichtung von diesem fehlt, was ist dann richtig?",
+    "optionen": [
+      "A) Die Weiche darf nicht befahren werden",
+      "B) Die Weiche darf mit höchstens 5 km/h befahren werden",
+      "C) Die Weiche darf nur mit Befehl auf Sicht befahren werden",
+      "D) Kann der Bediener die Weiche überblicken und vor unberechtigtem Eingriff schützen, kann auf einen Befehl verzichtet werden",
+      "E) Die Weiche darf mit höchstens 50 km/h befahren werden"
+    ],
+    "antwort": "B, D"
+  },
+  {
+    "phrase": "Welche Aussage zur Verwendung von Mastschildern ist richtig?",
+    "frage": "Welche Aussage zur Verwendung von Mastschildern ist richtig?",
+    "optionen": [
+      "A) Mastschilder geben das Verhalten bei Halt zeigenden oder gestörten Formsignalen vor",
+      "B) Mastschilder geben das Verhalten bei Halt zeigenden oder gestörten Lichtsignalen vor",
+      "C) An einem durch ein weiß-rot-weißes Mastschild gekennzeichnetes Lichtsignal, das Halt zeigt oder gestört ist, dürfen Züge auf Ersatzsignal, Vorsichtsignal, Gegengleisfahrt-Ersatz-Signal Befehl oder bei Signal Zs 12 auf mündlichen bzw. fernmündlichen Auftrag vorbeifahren",
+      "D) An einem durch ein weiß-gelb-weiß-gelb-weißes Mastschild gekennzeichneten Lichthaupt-Signal eine Verständigung mit dem Fdl nicht möglich ist, ohne Zustimmung vorbeifahren und müssen bis zum nächsten Hauptsignal auf Sicht fahren",
+      "E) An einem durch ein weiß-rot-weißes Mastschild gekennzeichneten Lichthauptsignal, das Halt zeigt oder gestört ist, dürfen Züge, wenn nach dem Anhalten vor diesem Signal eine Verständigung mit dem Fdl nicht möglich ist, ohne Zustimmung vorbeifahren und müssen bis zum nächsten Hauptsignal auf Sicht fahren"
+    ],
+    "antwort": "B, C, D"
+  },
+  {
+    "frage": "Wann wird eine ERP erforderlich?",
+    "optionen": [
+      "A) Wenn bekannt wird, dass ein Blockabschnitt nicht besetzt angezeigt wird, obwohl er besetzt ist",
+      "B) Wenn aus einem Bahnhof ohne Ausfahrsignal ausgefahren werden soll",
+      "C) Wenn im Ausfahrgleis die FHT bedient werden soll, weil nach einer Zugfahrt ein Gleisfreimeldeabschnitt nicht aufgelöst ist, obwohl er nicht mehr als besetzt angezeigt wird",
+      "D) Wenn es für das Bedienen der FHT im Strebu vorgeschrieben ist",
+      "E) Wenn ein Zentralblockabschnitt aufgelöst werden soll, ohne dass eine Zugfahrt stattgefunden hat"
+    ],
+    "antwort": "B, D"
+  },
+  {
+    "frage": "Welche der nachfolgenden Aussagen über Zugmeldungen ist richtig?",
+    "optionen": [
+      "A) auf eingleisigen Strecken müssen Züge immer zurückgemeldet werden",
+      "B) Züge müssen i.d.R. von Zmst zu Zmst abgemeldet werden",
+      "C) Züge sind immer mit der tatsächlichen Ab- und Durchfahrzeit abzumelden",
+      "D) Der Fdl darf Züge grundsätzlich nur dann abmelden, wenn der letzte vorausgefahrene Zug auf der nächsten Zmst angekommen ist",
+      "E) Züge dürfen i.d.R. bis zu 5 Min. vor der voraussichtlichen Ab- oder Durchfahrzeit angeboten und angenommen werden"
+    ],
+    "antwort": "B, E"
+  },
+  {
+    "frage": "Unter welchen Bedingungen darf auf Hauptgleisen rangiert werden?",
+    "optionen": [
+      "A) Nur mit Vorwissen der Betriebszentrale",
+      "B) Auf Weisung des Rangierpersonals oder des Weichenwärters",
+      "C) Nur wenn die Hauptgleise rechtzeitig für Zugfahrten geräumt werden",
+      "D) Nur mit Zustimmung des Nachbar-Fdls",
+      "E) Nur mit Vorwissen des Fdls"
+    ],
+    "antwort": "C, E"
+  },
+  {
+    "frage": "Sie sind Fdl im Bahnhof Kleinstadt. Aufgrund von Arbeiten hat die FK Rpz für den Blockabschnitt 21 (Selbstblock) im Arbeits- und Störungsbuch vorgeschrieben. Wann darf man die Rpz wieder aufheben?",
+    "optionen": [
+      "A) Alle Anlässe müssen weggefallen sein",
+      "B) es muss ein Kontrollzug im Regel- und Gegengleis gefahren sein",
+      "C) es muss ein Kontrollzug im Regelgleis gefahren sein",
+      "D) es muss ein Kontrollzug im Gegengleis gefahren sein",
+      "E) Das Ende der Arbeiten muss im Arbeits- und Störungsbuch eingetragen sein"
+    ],
+    "antwort": "A, C, E"
+  },
+  {
+    "frage": "Welche Aussagen zur RP treffen auf Strecken mit selbsttätigem Streckenblock zu?",
+    "optionen": [
+      "A) Räumungsprüfstelle ist die Zugfolgestelle hinter dem Zugfolgeabschnitt",
+      "B) Räumungsprüfstelle ist die Zugmeldestelle hinter dem Zugfolgeabschnitt",
+      "C) Eine RP müssen Sie durch Rückmelden bestätigen, wenn Sie als Fdl der Räumungsprüfstelle nicht zugleich Fdl der Zugfolgestelle sind der die Fahrt in den Zugfolgeabschnitt zulässt",
+      "D) die RP müssen Sie stets durch Rückmelden an den rückgelegenen Fdl bestätigen",
+      "E) die RP müssen Sie stets durch Rückmelden an den vorgelegenen Fdl bestätigen"
+    ],
+    "antwort": "B, C"
+  },
+  {
+    "frage": "Bei einer selbsttätigen Gleisfreimeldeanlage mit Achszählern ist für einen als besetzt angezeigten, aber freien Abschnitt eine Abschnittsprüfung solange durchzuführen, bis …",
+    "optionen": [
+      "A) die Fachkraft die Beseitigung der Störung gemeldet hat",
+      "B) die Fachkraft mit den Arbeiten begonnen hat",
+      "C) der Abschnitt nicht mehr als besetzt angezeigt wird",
+      "D) der Notfallmanager vor Ort eingetroffen ist",
+      "E) der Abschnitt nach Bedienen der Achszählgrundstellungstaste nicht mehr als besetzt angezeigt wird"
+    ],
+    "antwort": "A, E"
+  },
+  {
+    "frage": "Welche Möglichkeiten haben Sie als Fdl, den Tf zu beauftragen, das Gegengleis zu befahren?",
+    "optionen": [
+      "A) Signal Zs 8",
+      "B) Signal Zs 1",
+      "C) Signal Zs 6",
+      "D) Befehl 4",
+      "E) Befehl 2"
+    ],
+    "antwort": "A, C, D"
+  },
+  {
+    "frage": "Wann ist die Signalabhängigkeit einer Weiche aufgehoben?",
+    "optionen": [
+      "A) Wenn Zungen- oder Herzstückverschlüsse durch Handverschluss gesichert sind",
+      "B) Wenn das Hauptsignal nicht auf Fahrt gestellt werden kann",
+      "C) Wenn ein Hauptsignal auf Fahrt gestellt werden kann und eine Fachkraft im Arbeits- und Störungsbuch die Abhängigkeit aufgehoben hat",
+      "D) Wenn ein Hauptsignal auf Fahrt gestellt werden kann und die Zungen- oder Herzstückverschlüsse von Weichen wirken nicht ordnungsgemäß"
+    ],
+    "antwort": "C, D"
+  },
+  {
+    "frage": "Welche Aussage zum Thema fahren auf dem Ggl. mit Signal Zs 8 / mit Befehl ist richtig?",
+    "optionen": [
+      "A) Züge auf dem Regelgleis dürfen einander im Abstand der Zugfolgestellen folgen",
+      "B) Für Züge, die das Ggl. befahren, gelten die Signale der freien Strecke am Nachbargleis",
+      "C) Die Zmst, die im Bebu bestimmt ist, muss das Fahren auf dem Ggl. einführen",
+      "D) Die Zmst, bei der der Anlass aufgetreten ist, muss das Fahren auf dem Ggl. einführen",
+      "E) Das Fahren auf dem Ggl. ist nur auf Weisung des Notfallmanagers einzuführen"
+    ],
+    "antwort": "A, D"
+  },
+  {
+    "frage": "Unter welchen Bedingungen dürfen Züge/ Sperrfahrten in Gleise ohne ortsfestes Zielsignal eingelassen werden?",
+    "optionen": [
+      "A) Wenn ein Mitarbeiter am Ziel das Signal Sh 3 gibt",
+      "B) Wenn am Ende des Fahrwegs eine Wärterhaltscheibe aufgestellt ist",
+      "C) Wenn es laut Bebu zugelassen ist, darf der Fdl den Tf mit Befehl 14.4 den Halteplatz vorschreiben",
+      "D) Wenn die Bedingungen für die Ausfahrt des Zuges beim Zulassen der Zugfahrt schon erfüllt sind",
+      "E) Wenn der Tf mündlich darüber verständigt wird"
+    ],
+    "antwort": "B, C, D"
+  },
+  {
+    "frage": "Welche Aussage über schriftliche Befehle ist richtig?",
+    "optionen": [
+      "A) Namen von Betriebsstellen dürfen nur so abgekürzt werden, wie sie im Bebu zugelassen sind",
+      "B) Wenn man sich beim Diktieren eines Befehls verschreibt, darf dies auf dem Befehl überschrieben werden (allerdings nicht mit Bleistift)",
+      "C) Mehrere Befehle dürfen auf einem Vordruck erteilt werden, wenn die Befehle in der im Vordruck angegebenen Reihenfolge ausgeführt werden können",
+      "D) Ein Befehl darf vom Tf im Auftrag des Zugführers ausgefertigt werden",
+      "E) Mehrere Befehle müssen immer jeweils auf einem eigenen Vordruck erteilt werden"
+    ],
+    "antwort": "A, C"
+  },
+  {
+    "frage": "Beim Einstellen einer Zugstraße bleibt der Verschlussmelder einer Weiche dunkel. Was ist richtig?",
+    "optionen": [
+      "A) Die Signalabhängigkeit der Weiche ist aufgehoben",
+      "B) Die richtige Lage der Weiche kann nur noch an Ort und Stelle festgestellt werden",
+      "C) Sie müssen die Weiche zuerst umstellen und dabei prüfen, ob umstellen und Endstellung ordnungsgemäß angezeigt werden (Blinklichtprüfung)",
+      "D) Ist der VM der Weiche nach der Blinklichtprüfung weiterhin dunkel, müssen Sie die Weiche in der erforderlichen Stellung gegen Umstellen sperren",
+      "E) Ist der VM der Weiche nach der Blinklichtprüfung weiterhin dunkel, müssen Sie die Weiche gegen Befahren sperren"
+    ],
+    "antwort": "C, D"
+  },
+  {
+    "frage": "Wie werden ungültige Signale gekennzeichnet?",
+    "optionen": [
+      "A) Ein ungültiges Signal ist durch ein schwarzes Kreuz mit weißem Rand gekennzeichnet",
+      "B) Ein ungültiges Formsignal wird bei Nacht zusätzlich beleuchtet",
+      "C) Ein ungültiges Signal kann verdeckt werden",
+      "D) Ein ungültiges Signal wird durch ein weißes Licht (Kennlicht) gekennzeichnet",
+      "E) Ein ungültiges Signal ist durch ein weißes Kreuz mit schwarzem Rand gekennzeichnet"
+    ],
+    "antwort": "C, E"
+  },
+  {
+    "frage": "Welche der folgenden Situationen sind Anlässe zum Sperren eines Gleises in einem Bahnhof oder auf einer Abzweigstelle?",
+    "optionen": [
+      "A) Liegen bleiben eines Zuges, der nicht aus eigener Kraft weiterfahren kann",
+      "B) Durchführen einer Lü-Sendung „Dora“ im Nachbargleis",
+      "C) Einsetzen von KL in Abschnitte mit Gleisstromkreise",
+      "D) Eintrag der FK LST im Arbeits- und Störungsbuch (Sperren gegen Befahren)",
+      "E) Einsetzen von Fahrzeugen – ausgenommen KL – in Gleisfreimeldeabschnitte mit Achszählern"
+    ],
+    "antwort": "B, D, E"
+  },
+  {
+    "frage": "Für das Ausfertigen, Übermitteln und Aushändigen von Befehlen sind Grundsätze festgelegt. Welche Aussage ist richtig?",
+    "optionen": [
+      "A) Der Fdl darf dem Tf einen Befehl diktieren, wenn der Zug hält und der Tf ihm den Standort des Zuges gemeldet hat",
+      "B) Der Fdl darf Befehle einem anderen Mitarbeiter (Bebu) diktieren, der den Befehl dem Tf aushändigt",
+      "C) Der Fdl muss den Befehl in jedem Einzelfall ausfertigen und aushändigen",
+      "D) Befehle dürfen ausschließlich auf den vorgeschriebenen Vordrucken ausgefertigt werden",
+      "E) Befehle müssen grundsätzlich nicht vom Tf bei der Entgegennahme quittiert werden"
+    ],
+    "antwort": "A, B"
+  },
+  {
+    "frage": "Wo sind während der Sperrung eines Gleises der freien Strecke Mh bzw. Hsp anzubringen?",
+    "optionen": [
+      "A) Merkhinweis „X“ an der Zieltaste der Zugstraße oder im ersten Zugfolgeabschnitt",
+      "B) Merkhinweis „X“ an die Einrichtung für die Abgabe der Zugmeldung",
+      "C) Hilfssperre an die Signaltaste des ersten Sbk",
+      "D) Hilfssperre an die Zieltaste der Zugstraße",
+      "E) Hilfssperre an die SBET"
+    ],
+    "antwort": "A, D, E"
+  },
+  {
+    "frage": "Welche Aussagen zum Signal Sh 2 sind richtig?",
+    "optionen": [
+      "A) Das Signal darf als Haltetafel verwendet, werden",
+      "B) Das Signal darf als Abschlusssignal eines Stumpfgleises verwendet, werden",
+      "C) Das Signal wird ausschließlich an Sperrsignalen und Gleissperrsignalen verwendet",
+      "D) Die Wärterhaltscheibe darf zur Kennzeichnung einer Gleisstelle die vorübergehend nicht befahren werden darf verwendet werden",
+      "E) Die Wärterhaltscheibe darf zur Kennzeichnung zur Stelle, an der Züge ausnahmsweise anhalten sollen, verwendet werden"
+    ],
+    "antwort": "B, D, E"
+  },
+  {
+    "frage": "In welchen Fällen ist der Merkhinweis „BEF“ anzubringen bzw. einzugeben?",
+    "optionen": [
+      "A) Wenn mit Befehl 12 eine Geschwindigkeitsbeschränkung vorzuschreiben ist",
+      "B) Immer wenn Befehle erforderlich sind",
+      "C) Wenn Befehle im Auftrag für eine andere Betriebsstelle ausgefertigt werden müssen"
+    ],
+    "antwort": "A"
+  },
+  {
+    "frage": "Die Bestätigung der RP durch einen Rückmeldeposten wir vom Fdl nachgewiesen.",
+    "optionen": [
+      "A) im Zmb, Spalte „Rückmeldung“",
+      "B) im Fernsprechbuch",
+      "C) im Zmb Spalte „MuV“",
+      "D) im Zmb, quer über den Spaltenbau"
+    ],
+    "antwort": "C"
+  },
+  {
+    "frage": "Kann vor Grundstellung nicht ordnungsgemäß wirkender Blockeinrichtungen keine ERP eingeholt werden, so gilt folgende Reihenfolge:",
+    "optionen": [
+      "A) Ankunftsfeststellung letzter Zug auf Räumungsprüfstelle, Bef 12, Grundstellungsversuch",
+      "B) Ankunftsfeststellung letzter Zug auf Räumungsprüfstelle, Zs 7, Grundstellungsversuch",
+      "C) Bef 12, Grundstellungsversuch",
+      "D) Grundstellungsversuch, Bef 12"
+    ],
+    "antwort": "A"
+  },
+  {
+    "frage": "Welche Aussage im Zusammenhang mit Bahnübergängen ist richtig?",
+    "optionen": [
+      "A) Bahnübergänge sind nur auf Strecken mit einer Geschwindigkeit bis 160 km/h zulässig",
+      "B) Bahnübergänge sind nur auf Hauptbahnen, außer bei Nebengleisen, technisch zu sichern",
+      "C) Die technische Sicherung von Bahnübergängen erfolgt ausschließlich durch Schranken",
+      "D) Übergänge für Reisende gelten auch als Bahnübergänge",
+      "E) Auf Nebenbahnen genügt es, durch hörbare Signale die Straßenbenutzer zu warnen"
+    ],
+    "antwort": "A, B"
+  },
+  {
+    "frage": "Bevor der Fdl eine Zugfahrt in einen Zugfolgeabschnitt zulassen darf, muss er u.a. folgendes beachten.",
+    "optionen": [
+      "A) Die Rückmeldung des zuletzt gefahrenen Zuges muss grundsätzlich im Zugmeldebuch eingetragen sein",
+      "B) Schrankenwärter, die über den Zugverkehr zu benachrichtigen sind, müssen benachrichtigt sein",
+      "C) Erforderliche Befehle müssen dem Triebfahrzeugführer übermittelt sein",
+      "D) Arbeitsstellen, die über Zugfahrten zu benachrichtigen sind, müssen benachrichtigt sein",
+      "E) Bei Bahnübergangssicherungsanlagen mit Überwachungssignal darf keine Störung bekannt sein"
+    ],
+    "antwort": "B, C, D"
+  },
+  {
+    "frage": "Welche Aussagen zur punktförmigen Zugbeeinflussung (PZB) sind richtig? Die PZB ...",
+    "optionen": [
+      "A) ist in der ESO für Strecken vorgeschrieben, auf denen mehr als 100 km/h zugelassen sind",
+      "B) ist in der EBO für Strecken vorgeschrieben, auf denen mehr als 120 km/h zugelassen sind",
+      "C) ist in der FV-DB für besonders dicht befahrene Strecken vorgeschrieben",
+      "D) ist in der EBO auf Nebenbahnen für Strecken vorgeschrieben, auf denen mehrere Züge gleichzeitig verkehren und Reisezugverkehr stattfindet oder mehr als 50 km/h zugelassen sind",
+      "E) führt bei Vorbeifahrt an einem Halt zeigenden Hauptsignal zur Zwangsbremsung"
+    ],
+    "antwort": "D, E"
+  },
+  {
+    "frage": "Sie sind Fdl in Kleinstadt. Nach der Zugfahrt 1246 von Kleinstadt nach Erle wird am BÜ 32,900 eine Störungsmeldung ausgelöst. Welche Aussage bzgl. der Störungsmeldung ist richtig?",
+    "optionen": [
+      "A) Bei einer Störungsmeldung gilt der Bahnübergang als nicht gesichert",
+      "B) Bei einer Störungsmeldung gilt der Bahnübergang als nicht ausreichend gesichert",
+      "C) Bei Annäherung einer Zugfahrt müssen Sie Maßnahmen bei Gefahr treffen",
+      "D) Sie müssen die Triebfahrzeugführer der Züge durch Befehl 8 verständigen",
+      "E) Sie müssen die Triebfahrzeugführer der Züge durch Befehl 12 und 12.2 verständigen"
+    ],
+    "antwort": "A, C, D"
+  },
+  {
+    "phrase": "Ein zuggesteuerter Bahnübergang mit der Überwachungsart Fü (Fernüberwachung) zeigt eine Zeitüberschreitungsmeldung an. Welche Aussagen sind richtig?",
+    "frage": "Ein zuggesteuerter Bahnübergang mit der Überwachungsart Fü (Fernüberwachung) zeigt eine Zeitüberschreitungsmeldung an. Welche Aussagen sind richtig?",
+    "optionen": [
+      "A) Der Bahnübergang gilt als nicht gesichert. Sie müssen Züge mit Befehl 8 verständigen",
+      "B) Der Bahnübergang gilt als nicht gesichert. Sie müssen Züge mit Bef 12, Grund Nr. 10 und Bef 12.2 verständigen",
+      "C) Die Meldung ist für Sie als Fdl nicht relevant, das es sich um eine zuggesteuerte Bahnübergangssicherungsanlage handelt",
+      "D) Der Bahnübergang gilt als nicht ausreichend gesichert, wenn sich ein Zug in der Einschaltstrecke befindet und diese nicht geräumt werden kann",
+      "E) Der Bahnübergang gilt als nicht ausreichend gesichert, wenn alle Einschaltstrecken geräumt sind"
+    ],
+    "antwort": "D, E"
+  },
+  {
+    "frage": "Bei einer eingestellten Zugstraße leuchtet der Fahrstraßenfestlegemelder. Was bestätigt er?",
+    "optionen": [
+      "A) Der Fahrweg ist gesichert",
+      "B) Der D-Weg ist gesichert",
+      "C) Der Fahrweg ist frei",
+      "D) Der D-Weg ist frei"
+    ],
+    "antwort": "A, B"
+  },
+  {
+    "frage": "Sie sind Fdl im Bahnhof Kleinstadt. Aufgrund von Arbeiten hat die FK Rpz für den Blockabschnitt 21 im Arbeits- und Störungsbuch vorgeschrieben. Wann darf der Fdl den Arbeiten zustimmen?",
+    "optionen": [
+      "A) Wenn der zuletzt gefahrene Zug den Blockabschnitt 21 geräumt hat",
+      "B) Wenn sich der Blockabschnitt 21 und alle folgenden Zugfolgeabschnitte bis Dortheim in Grundstellung befinden oder ...",
+      "C) eine Einzelräumungsprüfung bei dem Zug durchgeführt wurde, der den Blockabschnitt 21 und die folgenden Zugfolgeabschnitte bis Dortheim zuletzt befahren hat",
+      "D) Wenn der zuletzt gefahrene Zug den Blockabschnitt 21 geräumt hat und der Zug zurückgemeldet wurde"
+    ],
+    "antwort": "B, C"
+  },
+  {
+    "frage": "Im Relaisstellwerk dürfen Sie bei Zentralblock mit Achszählern ggf. eine ERP durch Blockabschnittsprüfung für den betroffenen Zugfolgeabschnitt ersetzen. Was ist zutreffend?",
+    "optionen": [
+      "A) Alle Zugfolgeabschnitte bis zur nächsten Zugmeldestelle müssen als frei angezeigt werden",
+      "B) Der Zugfolgeabschnitt muss als frei angezeigt werden",
+      "C) Der Melder des Zugfolgeabschnittes muss dunkel sein",
+      "D) Der Halt- oder Fahrtmelder des Hauptsignals am Ende des Zugfolgeabschnittes muss leuchten und der Melder des Signals Zs 1, Zs 7, Zs 8 muss dunkel sein",
+      "E) Blockabschnittsprüfung ist nicht zulässig, wenn ein Zentralblockabschnitt nicht aufgelöst ist",
+      "F) Der Halt- oder Fahrtmelder des Hauptsignals am Anfang des Zugfolgeabschnittes muss leuchten und der Melder des Signals Zs 1, Zs 7, Zs 8 muss dunkel sein"
+    ],
+    "antwort": "B, D, E"
+  },
+  {
+    "frage": "Wie lange sind die Maßnahmen zur Sicherung des Fahrwegs bei Zugfahrten mit besonderem Auftrag erforderlich?",
+    "optionen": [
+      "A) Bis der Zug die Signalzugschlussstelle befahren hat",
+      "B) Bis der Zug die Weichen durchfahren hat oder am gewöhnlichen Halteplatz – bei mehreren am letzten – zum Halten gekommen ist",
+      "C) Bis der Zug die Fahrstraßenzugschlussstelle befahren hat",
+      "D) Bis der Tf gemeldet hat, dass der Zug hält"
+    ],
+    "antwort": "B, C"
+  },
+  {
+    "frage": "Wo in Bahnhöfen für eine Richtung mehrere Zugstraßen vorhanden sind, ist die Benutzung der Gleise im Fahrplan für Zugmeldestellen vorgeschrieben. Was hat der Fdl bei Abweichen vom Fahrplan für Zugmeldestellen zu beachten?",
+    "optionen": [
+      "A) Wenn der Fdl einen Personenzug mit Halt zum Ein- und Aussteigen ausnahmsweise in ein Gleis einlassen muss, dessen Bahnsteig nicht ausreichend lang ist, muss er zuvor den Triebfahrzeugführer verständigen",
+      "B) Alle Züge sind zu verständigen",
+      "C) Reisezüge dürfen in der Regel nur in Gleise fahren, die für Reisezüge zugelassen sind",
+      "D) Alle betroffenen Züge müssen am Einfahrsignal gestellt werden",
+      "E) Alle planmäßig durchfahrenden Züge sind am Esig zu stellen"
+    ],
+    "antwort": "A, C"
+  },
+  {
+    "frage": "Während der Zugfahrt 1242 von Erle nach Kleinstadt wird am Bahnübergang 32 eine Zeitüberschreitung ausgelöst. Was ist richtig?",
+    "optionen": [
+      "A) Der Fehlermelder leuchtet gelb und der Summer ertönt",
+      "B) Der Einschalt- und der Zeitüberschreitungsmelder blinken gelb und der Summer ertönt",
+      "C) Sind alle Einschaltstrecken geräumt und die Zeitüberschreitungsmeldung leuchtet immer noch, ist dies der EVZS zu melden.",
+      "D) Der Störungsmelder leuchtet rot und der Summer ertönt"
+    ],
+    "antwort": "B, C"
+  },
+  {
+    "frage": "Wie wird das Auffahren einer ferngestellten Weiche auf dem Stelltisch (Sp Dr S60) dargestellt?",
+    "optionen": [
+      "A) Der Weichenstörwecker ertönt",
+      "B) Der Weichenstörmelder blinkt rot, beide STÜM blinken",
+      "C) Ein STÜM zeigt rotes Ruhelicht"
+    ],
+    "antwort": "A, B"
+  },
+  {
+    "frage": "In welchen Fällen müssen Sie einer Sperrfahrt Befehl 12 erteilen?",
+    "optionen": [
+      "A) Wenn Bauarbeiten durchgeführt werden",
+      "B) Im Gleis ist eine unbefahrbare Stelle",
+      "C) Mehrere Sperrfahrten sollen in das Gleis eingelassen werden",
+      "D) Das Ausfahrsignal ist gestört",
+      "E) Im Gleis befinden sich Fahrzeuge"
+    ],
+    "antwort": "B, C, E"
+  },
+  {
+    "frage": "Welche der nachfolgend aufgeführten Betriebsstellen gilt stets als Zugmeldestelle?",
+    "optionen": [
+      "A) Bahnhof",
+      "B) Haltestelle",
+      "C) Überleitstelle",
+      "D) Abzweigstelle",
+      "E) Deckungsstelle"
+    ],
+    "antwort": "A, C, D"
+  },
+  {
+    "frage": "Hauptsignale zeigen an, ob der anschließende Gleisabschnitt befahren werden darf. Welche Verwendung können Hauptsignale haben?",
+    "optionen": [
+      "A) Blocksignal",
+      "B) Deckungssignal vor einer Gefahrenstelle",
+      "C) Sperrsignal",
+      "D) Wasserkransignal",
+      "E) Zwischensignal",
+      "F) Ausfahrsignal"
+    ],
+    "antwort": "A, B, E, F"
+  },
+  {
+    "phrase": "Der Zug 50311 wurde bei Dunkelheit wegen erloschenen Spitzensignals im Bahnhof Kfeld angehalten. Der Triebfahrzeugführer konnte die Störung nicht beseitigen. Welche Aussage ist richtig?",
+    "frage": "Der Zug 50311 wurde bei Dunkelheit wegen erloschenen Spitzensignals im Bahnhof Kfeld angehalten. Der Triebfahrzeugführer konnte die Störung nicht beseitigen. Welche Aussage ist richtig?",
+    "optionen": [
+      "A) Der Zug darf mit maximal 50 km/h weiterfahren",
+      "B) Der Zug darf mit maximal 100 km/h weiterfahren",
+      "C) Der Zug erhält zur Weiterfahrt einen Befehl „sie müssen auf Sicht fahren“",
+      "D) Die Entscheidung der BZ ist abzuwarten",
+      "E) Ein Hilfs-Tfz ist anzufordern"
+    ],
+    "antwort": "E"
+  },
+  {
+    "frage": "Bei der Durchfahrt eines Reisezuges im Bf Kfeld stellen Sie an einem Reisezugwagen eine offene Außentür fest. Welche Maßnahmen müssen Sie ergreifen?",
+    "optionen": [
+      "A) Der Zug ist durch Nothaltauftrag sofort anzuhalten",
+      "B) Der nächste Haltbahnhof ist zu verständigen",
+      "C) Der nächste Bahnhof ist zu verständigen",
+      "D) Der Triebfahrzeugführer ist sofort zu verständigen",
+      "E) Die BZ ist sofort zu verständigen"
+    ],
+    "antwort": "A"
+  },
+  {
+    "phrase": "Sie haben als Fdl Bf Kleinstadt einen Güterzug wegen eines durch eine Heißläuferortungsanlage am Esig A angehalten. Der Zug soll durch den Tf im Bahnhof untersucht werden, dies ist in den örtlichen Richtlinien nicht verboten. Welche Aussage ist richtig?",
+    "frage": "Sie haben als Fdl Bf Kleinstadt einen Güterzug wegen eines durch eine Heißläuferortungsanlage am Esig A angehalten. Der Zug soll durch den Tf im Bahnhof untersucht werden, dies ist in den örtlichen Richtlinien nicht verboten. Welche Aussage ist richtig?",
+    "optionen": [
+      "A) Die Einfahrt des Zuges erfolgt in das Gleis 4, um den weiteren Betriebsablauf nicht zu beeinträchtigen",
+      "B) Die Einfahrt des Zuges erfolgt in das Gleis 3",
+      "C) Die Einfahrt des Zuges erfolgt in das Gleis 2. Während der Einfahrt des Zuges erhalten Zugfahrten im Gleis 1 einen Befehl „Sie müssen auf Sicht fahren“",
+      "D) Die Einfahrt des Zuges erfolgt in das Gleis 2. Während der Einfahrt des Zuges erhalten Zugfahrten im Gleis 1 und 3 einen Befehl „Sie dürfen nur mit Schrittgeschwindigkeit im Bahnhof Kleinstadt fahren“",
+      "E) Die Einfahrt des Zuges erfolgt in Gleis 2. Während der Einfahrt des Zuges dürfen die Gleise 1 und 3 nicht befahren werden"
+    ],
+    "antwort": "D"
+  },
+  {
+    "frage": "Welche Regeln hat ein Fdl zu beachten, wenn er für einen Sonderzug ein Bahnhofsgleis auswählen muss?",
+    "optionen": [
+      "A) Durchfahrende Züge mit mehr als 60 km/h müssen auf Gleisen verkehren, die mit Zwischensignalen ausgestattet sind",
+      "B) Güterzüge dürfen im Ausnahmefall nicht über ein Reisezuggleis fahren",
+      "C) In der Regel dürfen Reisezüge zum Halten und Ein- und Aussteigen nur in ein Gleis eingelassen werden, deren Bahnsteig ausreichend lang ist",
+      "D) Reisezüge dürfen ohne besondere Regelung auch über ein Gleis fahren, das nur für Güterzüge zugelassen ist",
+      "E) Falls ein durchfahrender Reisezug mit einer zulässigen Geschwindigkeit von mehr als 60 km/h verkehren soll, muss eine Geschwindigkeitsbeschränkung nicht vorsignalisiert werden"
+    ],
+    "antwort": "C"
+  },
+  {
+    "frage": "Einem Sonderzug wurden noch keine Fahrplanangaben übermittelt. Mit welchem Vordruck dürfen Sie als Fdl dem tf und Zf diese Angaben bekannt geben?",
+    "optionen": [
+      "A) Befehl",
+      "B) Anordnung über den Zugverkehr",
+      "C) Streckenfahrplan",
+      "D) Fahrplan-Mitteilung",
+      "E) Bremszettel"
+    ],
+    "antwort": "A"
+  },
+  {
+    "phrase": "Sie müssen feststellen, ob der Fahrweg frei von Fahrzeugen ist. Wo beginnt in einem Bahnhof ohne Gleisfreimeldeanlage der zu prüfende Teil des Fahrwegs?",
+    "frage": "Sie müssen feststellen, ob der Fahrweg frei von Fahrzeugen ist. Wo beginnt in einem Bahnhof ohne Gleisfreimeldeanlage der zu prüfende Teil des Fahrwegs?",
+    "optionen": [
+      "A) Er beginnt in Höhe des Stellwerks des Fahrdienstleiters",
+      "B) Er beginnt immer mit der ersten Weiche hinter dem Esig",
+      "C) Er beginnt am Signal Ra 10 oder mit der ersten Weiche hinter dem Esig",
+      "D) Er beginnt zwischen dem Esig und der ersten Weiche",
+      "E) Er beginnt 50 m vor der ersten Weiche im Einfahrbereich"
+    ],
+    "antwort": "C"
+  },
+  {
+    "frage": "Welche Aussage zur Fahrwegprüfung im Zusammenhang mit einmündenden Gleisabschnitten ist richtig?",
+    "optionen": [
+      "A) Die einmündenden Gleisabschnitte müssen bis zur Gleismitte des zugehörigen Gleises frei von Fahrzeugen sein",
+      "B) Die einmündenden Gleisabschnitte dürfen besetzt sein, wenn die Fahrzeuge gesichert sind",
+      "C) Die einmündenden Gleisabschnitte müssen abgeriegelt sein",
+      "D) Die einmündenden Gleisabschnitte müssen bis zum Grenzzeichen frei von Fahrzeugen sein",
+      "E) Die einmündenden Gleisabschnitte dürfen nur von Rangierfahrten benutzt werden"
+    ],
+    "antwort": "D"
+  },
+  {
+    "frage": "Welche Fahrten dürfen auf Gleisen mit selbsttätiger Gleisfreimeldeanlage erst zugelassen werden, wenn ein Merkhinweis „KL“ und eine Hilfssperre angebracht sind?",
+    "optionen": [
+      "A) Bedienfahrten für Anschlussgleise",
+      "B) Kleinwagenfahrten",
+      "C) Sperrfahrten",
+      "D) Kurzfristige Ladegleisfahrten",
+      "E) Zugfahrten mit außergewöhnlichen Sendungen"
+    ],
+    "antwort": "B"
+  },
+  {
+    "phrase": "Zur Fahrwegprüfung gehört auch das Feststellen, ob die zu befahrenden Weichen richtig gestellt sind. Bei welchen Weichen muss an der Außenanlage die richtige Stellung überprüft werden?",
+    "frage": "Zur Fahrwegprüfung gehört auch das Feststellen, ob die zu befahrenden Weichen richtig gestellt sind. Bei welchen Weichen muss an der Außenanlage die richtige Stellung überprüft werden?",
+    "optionen": [
+      "A) Bei geriegelten Weichen",
+      "B) Bei elektrisch gestellten Weichen",
+      "C) Bei ortsgestellten Weichen und nicht durch Handverschluss gesicherte Weichen",
+      "D) Bei ortsgestellten und geriegelten Weichen",
+      "E) Bei Weichen mit einem gelben Farbanstrich am Hebelgewicht und durch HV gesichert"
+    ],
+    "antwort": "C"
+  },
+  {
+    "frage": "Mit welcher Geschwindigkeit darf ein Zug im Bahnhof zurücksetzen, wenn der Tf sich nicht an der Spitze des Zuges befindet?",
+    "optionen": [
+      "A) Schrittgeschwindigkeit",
+      "B) 10 km/h",
+      "C) 20 km/h",
+      "D) 30 km/h",
+      "E) 40 km/h"
+    ],
+    "antwort": "B"
+  },
+  {
+    "frage": "Was muss der Tf melden, wenn der Zug nach dem Zurücksetzen an der beabsichtigten Stelle zum Halten gekommen ist?",
+    "optionen": [
+      "A) Das Freisein des vorliegenden Gleisabschnittes",
+      "B) Die Vollständigkeit des Zuges",
+      "C) Das Räumen der Zugschlussstelle",
+      "D) Das Beenden des Zurücksetzens",
+      "E) Die Stellung des Hauptsignals"
+    ],
+    "antwort": "D"
+  },
+  {
+    "frage": "In welchen Fällen ist Ihnen die Rückkehr aller Fahrzeuge zu melden, wenn auf dem Ausfahrgleis rangiert wurde?",
+    "optionen": [
+      "A) wenn über den letzten Abschnitt der Bahnhofsgleisfreimeldeanlage hinaus rangiert wurde",
+      "B) Wenn vis zur Bahnhofsgrenze rangiert wurde",
+      "C) Wenn bis Höhe des Signals Ra 10 rangiert wurde",
+      "D) Wenn über die Ausfahrweiche 15 hinaus rangiert wurde",
+      "E) Immer, wenn über das Ausfahrsignal hinaus rangiert wurde"
+    ],
+    "antwort": "A"
+  },
+  {
+    "phrase": "In welchem Fall ist Ihnen die Rückkehr aller Fahrzeuge zu melden, wenn auf dem Einfahrgleis rangiert wurde?",
+    "frage": "In welchem Fall ist Ihnen die Rückkehr aller Fahrzeuge zu melden, wenn auf dem Einfahrgleis rangiert wurde?",
+    "optionen": [
+      "A) Wenn bis zur Einfahrweiche 1 hinaus rangiert wurde",
+      "B) Wenn über die Einfahrweiche 1 rangiert wurde",
+      "C) Eine Meldung ist nicht erforderlich, weil der Triebfahrzeugführer sicherstellen muss, dass keine Fahrzeuge zurückgelassen wurden",
+      "D) Grundsätzlich nur, wenn über die Bahnhofsgrenze hinaus rangiert wurde",
+      "E) Die Meldung über die Rückkehr aller Fahrzeuge ist erforderlich, wenn auf dem Einfahrgleis rangiert wurde"
+    ],
+    "antwort": "B"
+  },
+  {
+    "frage": "In welchen Fällen wird Räumungsprüfung auf Zeit erforderlich?",
+    "optionen": [
+      "A) Ein Zug soll mit besonderem Auftrag an einem Halt zeigenden Esig vorbeifahren",
+      "B) Die Blockabschnittsprüftaste soll bedient werden",
+      "C) Die Fachkraft hat die Räumungsprüfung vorgeschrieben",
+      "D) ein Zug soll mit besonderem Auftrag an einem Halt zeigenden Asig vorbeifahren",
+      "E) Es wird bekannt, dass ein Blockabschnitt nicht als besetzt angezeigt wird, obwohl er besetzt ist"
+    ],
+    "antwort": "C, E"
+  },
+  {
+    "phrase": "Der Fdl bestimmt, welche Gleise ein Zug befährt, soweit es nicht schon angeordnet ist. Welche aussage zum Thema Züge des Gelegenheitsverkehrs ist richtig?",
+    "frage": "Der Fdl bestimmt, welche Gleise ein Zug befährt, soweit es nicht schon angeordnet ist. Welche aussage zum Thema Züge des Gelegenheitsverkehrs ist richtig?",
+    "optionen": [
+      "A) Für die durchfahrenden Züge dürfen Sie nur Reisezuggleise benutzen",
+      "B) Für durchfahrende Züge dürfen Sie nur die im Streckenfahrplan zugelassenen Zugstraßen benutzen",
+      "C) Reisezüge dürfen ohne Einschränkungen über Güterzuggleise fahren",
+      "D) Reisezüge dürfen in der Regel nur in Gleise fahren, die für Reisezüge zugelassen sind",
+      "E) Reisezüge mit Halten zum Ein- und Aussteigen dürfen Sie in der Regel nur in Gleise einlassen, deren Bahnsteige ausreichend lang sind"
+    ],
+    "antwort": "D, E"
+  },
+  {
+    "phrase": "Sie sind Fdl im Bahnhof Kleinstadt. Aufgrund von Arbeiten hat die FK Rpz für den Ausfahrblockabschnitt N im Arbeits- und Störungsbuch vorgeschrieben. Wo müssen Merkhinweise und Hilfssperren angebracht werden?",
+    "frage": "Sie sind Fdl im Bahnhof Kleinstadt. Aufgrund von Arbeiten hat die FK Rpz für den Ausfahrblockabschnitt N im Arbeits- und Störungsbuch vorgeschrieben. Wo müssen Merkhinweise und Hilfssperren angebracht werden?",
+    "optionen": [
+      "A) Merkhinweis AP neben der Ausfahrzieltaste oder im ersten Zugfolgeabschnitt",
+      "B) Merkhinweis ARB neben der Ausfahrzieltaste",
+      "C) Merkhinweis RP neben der Ausfahrzieltaste oder im ersten Zugfolgeabschnitt",
+      "D) Hilfssperre an der Ausfahrzieltaste",
+      "E) Hilfssperre an der Signaltaste Sbk 21"
+    ],
+    "antwort": "C, D"
+  },
+  {
+    "frage": "Welche der folgenden Geschäftsfelder sind Eisenbahninfrastrukturunternehmen?",
+    "optionen": [
+      "A) DB Netz",
+      "B) DB Cargo",
+      "C) DB Regio",
+      "D) DB Energie",
+      "E) DB Fernverkehr"
+    ],
+    "antwort": "A, D"
+  },
+  {
+    "frage": "Welche Merkmale sind für Signale laut Ril 301 verbindlich festgelegt?",
+    "optionen": [
+      "A) Form der Signale",
+      "B) Lautstärke von Rufsignalen",
+      "C) Die Merkmale werden von den EVU festgelegt",
+      "D) Farbe von Signalen",
+      "E) Breite und Höhe der Formsignale"
+    ],
+    "antwort": "A, D"
+  },
+  {
+    "frage": "Für Hauptsignale sind die Standorte und Grundstellungen festgelegt. Welche Aussagen sind richtig?",
+    "optionen": [
+      "A) Die Grundstellung der Hauptsignale ist grundsätzlich „Fahrt“",
+      "B) Die Hauptsignale stehen i.d.R. unmittelbar rechts neben oder über dem zugehörigen Gleis",
+      "C) Die Hauptsignale stehen stets rechts neben dem Gleis",
+      "D) Für Hauptsignale ist keine Grundstellung vorgesehen",
+      "E) Die auf zweigleisigen Strecken für Fahrten entgegen der gewöhnlichen Fahrtrichtung aufgestellten Block- bzw. Einfahrsignale stehen i.d.R. Links neben oder über dem zugehörigen Gleis"
+    ],
+    "antwort": "B, E"
+  },
+  {
+    "phrase": "Für die Durchführung des Bahnbetriebs gelten Rechtsgrundlagen und konzerninterne Bestimmungen. Welches Regelwerk ist innerbetrieblicher Art?",
+    "frage": "Für die Durchführung des Bahnbetriebs gelten Rechtsgrundlagen und konzerninterne Bestimmungen. Welches Regelwerk ist innerbetrieblicher Art?",
+    "optionen": [
+      "A) Eisenbahn- Bau- und Betriebsordnung",
+      "B) Fahrdienstvorschrift",
+      "C) Signalanlagen bedienen – Allgemein",
+      "D) Eisenbahnsignalordnung",
+      "E) Eisenbahnkreuzungsgesetz"
+    ],
+    "antwort": "B, C"
+  },
+  {
+    "frage": "Welche drei Gesetze sind für die Eisenbahnen in Deutschland relevant?",
+    "optionen": [
+      "A) AGE, EVneuGG, LEG",
+      "B) ENeuOG, LEG, AEG",
+      "C) EEG, BBG, NEuVOG",
+      "D) LBKG, BBKG, Fwvo",
+      "E) AEG, LBKG, LEG"
+    ],
+    "antwort": "B"
+  },
+  {
+    "frage": "Welche 4 Rechtsverordnungen sind für die Eisenbahnen relevant?",
+    "optionen": [
+      "A) ESO, EBO, GGVSEB, EVO",
+      "B) EOS, EOB, GGBSEV, OVE",
+      "C) EOV, BEO, GUV-D, ZDF",
+      "D) ESO, EBO, EVO, OVE",
+      "E) StVo, EBO, Ril 408, Ril 301"
+    ],
+    "antwort": "A"
+  },
+  {
+    "frage": "Wie ist die Ril 408 aufgebaut bzw. welche Gliederung gibt es?",
+    "optionen": [
+      "A) Modulkapitel, Modulabschnitte, Modulzeile",
+      "B) Modulpassus, Modulteil, Modulpassage",
+      "C) Modulgruppe, Module, Abschnitte, Absätze",
+      "D) Modulabsatz, Modulabschnitte, Modulkapitel",
+      "E) Module, Modulzahlen, Modulzeilen"
+    ],
+    "antwort": "C"
+  },
+  {
+    "frage": "In welcher Unterlage werden örtliche Besonderheiten bekannt gegeben?",
+    "optionen": [
+      "A) Örtliche Angaben",
+      "B) Örtliche Zusätze",
+      "C) Örtliche Verweise",
+      "D) Örtliche Verfahrensweisen",
+      "E) Örtliche Checklisten"
+    ],
+    "antwort": "B"
+  },
+  {
+    "frage": "In welcher Antwort sind drei innerbetriebliche Richtlinien genannt?",
+    "optionen": [
+      "A) 408, 301, 480",
+      "B) 481, 482, 801",
+      "C) 423, 408, 420",
+      "D) 408, 465, 801",
+      "E) 423, 201, 801"
+    ],
+    "antwort": "C"
+  },
+  {
+    "phrase": "Die PZB-Streckeneinrichtung am Asig P1 des Bf Kleinstadt ist gestört. Welche Geschwindigkeit ist den Triebfahrzeugführern für die Dauer einer Störung für welche Abschnitte vorzuschreiben?",
+    "frage": "Die PZB-Streckeneinrichtung am Asig P1 des Bf Kleinstadt ist gestört. Welche Geschwindigkeit ist den Triebfahrzeugführern für die Dauer einer Störung für welche Abschnitte vorzuschreiben?",
+    "optionen": [
+      "A) Höchstens 50 km/h",
+      "B) Höchstens 100 km/h",
+      "C) Vom Signal F des Bf Kleinstadt bis Signal 16",
+      "D) Vom Signal F des Bf Kleinstadt bis Signal P1",
+      "E) Von Signal P1 des Bf Kleinstadt bis Erle"
+    ],
+    "antwort": "A, D"
+  },
+  {
+    "frage": "Wo sind während der Streckengleissperrung Mh und Hsp anzubringen?",
+    "optionen": [
+      "A) Merkhinweis „X“ an der ZT der Zugstraße oder im ersten Zugfolgeabschnitt",
+      "B) Merkhinweis „X“ an die Einrichtung für die Abgabe der Zugmeldung",
+      "C) Hilfssperre an die Signaltaste des ersten Selbstblocksignals",
+      "D) Hilfssperre an der Zieltaste der Zugstraße",
+      "E) Hilfssperre an der SBET"
+    ],
+    "antwort": "A, D, E"
+  },
+  {
+    "frage": "In welchen der nachfolgenden Fälle muss ein Streckengleis nicht gesperrt werden?",
+    "optionen": [
+      "A) Wenn Fahrten eingelassen werden, die Rückwärtsbewegungen durchführen",
+      "B) Wenn ein Zug aus unvorhergesehenem Anlass auf der freien Strecke stehen bleibt und aus eigener Kraft wieder weiterfahren kann",
+      "C) Wenn Fahrten eingelassen werden, die Kleinwagenfahrten sind",
+      "D) Wenn Fahrzeuge ins Gleis eingesetzt werden sollen",
+      "E) Wenn Fahrten mit Lü-Sendungen „Cäsar“ im Nachbargleis durchgeführt werden sollen"
+    ],
+    "antwort": "B, D"
+  },
+  {
+    "phrase": "Welche Voraussetzungen müssen erfüllt sein, bevor Sie ein Streckengleis zum Baugleis erklären dürfen?",
+    "frage": "Welche Voraussetzungen müssen erfüllt sein, bevor Sie ein Streckengleis zum Baugleis erklären dürfen?",
+    "optionen": [
+      "A) Das Streckengleis kann ohne weitere Voraussetzungen zum Baugleis erklärt werden",
+      "B) Die Erklärung zum Baugleis darf nach Absprache mit dem 4.2 erfolgen. Eine Betra ist nicht zwingend erforderlich",
+      "C) Die Erklärung zum Baugleis muss in der Betra angeordnet sein",
+      "D) Der zuständige Mitarbeiter der BZ muss zugestimmt haben",
+      "E) Die in der Betra genannte Person muss zugestimmt haben"
+    ],
+    "antwort": "C, E"
+  },
+  {
+    "phrase": "Sie sind Fdl im Bf Kleinstadt. Die FK LST hat im Arbeits- und Störungsbuch Rpz für den Ausfahrblockabschnitt N im Gleis Kleinstadt-Dortheim vorgeschrieben. Wann dürfen Sie dem Beginn der Arbeiten zustimmen?",
+    "frage": "Sie sind Fdl im Bf Kleinstadt. Die FK LST hat im Arbeits- und Störungsbuch Rpz für den Ausfahrblockabschnitt N im Gleis Kleinstadt-Dortheim vorgeschrieben. Wann dürfen Sie dem Beginn der Arbeiten zustimmen?",
+    "optionen": [
+      "A) Wenn der zuletzt gefahrene Zug den Ausfahrblockabschnitt N geräumt hat",
+      "B) Wenn der zuletzt gefahrene Zug den Ausfahrblockabschnitt N geräumt hat und der Zug zurückgemeldet wurde",
+      "C) Wenn sich der Ausfahrblockabschnitt N und alle folgenden Zugfolgeabschnitte bis Dortheim in Grundstellung befinden",
+      "D) Wenn eine ERP bei dem Zug durchgeführt wurde, der den Ausfahrblockabschnitt N und die folgenden Zugfolgeabschnitte bis Dortheim zuletzt befahren hat"
+    ],
+    "antwort": "C, D"
+  },
+  {
+    "frage": "Welche nachfolgenden Sachverhalte treffen auf eine Betra zu?",
+    "optionen": [
+      "A) Muss beantragt werden",
+      "B) Wird allen technischen Arbeitsgebieten zur Mitzeichnung vorgelegt",
+      "C) Enthaltene Anweisungen sind nicht bindend",
+      "D) Wird vom Betra-Sachbearbeiter erstellt",
+      "E) Muss mindestens 5 Tage vor dem Tag des Inkrafttretens vorliegen"
+    ],
+    "antwort": "A, B, D, E"
+  },
+  {
+    "frage": "Welche Aussage zum Thema Fahren auf dem Gegengleis im GWB ist richtig?",
+    "optionen": [
+      "A) Züge auf dem Regelgleis müssen einander im Abstand der Zugmeldestellen folgen",
+      "B) Züge, die das Gegengleis befahren, müssen Sie anbieten und annehmen mit dem Zusatz „auf dem Gegengleis“",
+      "C) Züge, die das Regelgleis befahren, müssen Sie anbieten und annehmen",
+      "D) Die zulässige Geschwindigkeit im Regelgleis beträgt 100 km/h"
+    ],
+    "antwort": "B"
+  },
+  {
+    "phrase": "Welche Aussagen sind korrekt bzgl. der Weiterfahrt von mit Nothaltauftrag angehaltener Züge?",
+    "frage": "Welche Aussagen sind korrekt bzgl. der Weiterfahrt von mit Nothaltauftrag angehaltener Züge?",
+    "optionen": [
+      "A) Kann mit mündlicher Zustimmung des Fdl zugelassen werden",
+      "B) Muss mit Bef 2 zugelassen werden",
+      "C) Sie müssen als Fdl die Zustimmung des Nmg nicht abwarten",
+      "D) Es gelten die Bestimmungen der Ril 42380",
+      "E) Sie müssen prüfen, ob die Weiterfahrt möglich ist und die Voraussetzungen schaffen, bevor Sie als Fdl ihre Zustimmung zur Weiterfahrt geben"
+    ],
+    "antwort": "A, D, E"
+  }
+]
