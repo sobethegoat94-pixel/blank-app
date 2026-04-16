@@ -771,5 +771,71 @@
       "E) Sie müssen prüfen, ob die Weiterfahrt möglich ist und die Voraussetzungen schaffen, bevor Sie als Fdl ihre Zustimmung zur Weiterfahrt geben"
     ],
     "antwort": "A, D, E"
+  },
+  {
+    "frage": "Wo sind während einer Gleissperrung der freien Strecke Merkhinweis(e) bzw. Hilfssperre(n) anzubringen?",
+    "optionen": [
+      "A) Merkhinweis \"X\" an der Zieltaste der Zugstraße, beim gesperrten Gleis.",
+      "B) Merkhinweis \"X\" an die Einrichtung für die Abgabe der Zugmeldung.",
+      "C) Hilfssperre an die SBET (Selbststellbetriebeinschalttaste).",
+      "D) Hilfssperre an der Zugstraßentaste des Ausfahrsignals.",
+      "E) Hilfssperre an der Zieltaste der betroffenen Zugstraße."
+    ],
+    "antwort": "A, C, E"
+  },
+  {
+    "frage": "An einem Signalmast befindet sich das Signal Zs2. Welche Aussage(n) ist (sind) richtig?",
+    "optionen": [
+      "A) Das Signal zeigt an, dass die Fahrstraße in die angezeigte Richtung führt.",
+      "B) Mit dem Signal wird der Auftrag gegeben, die Fahrtzeit zu verkürzen.",
+      "C) Mit dem Signal wird der Auftrag gegeben, die angezeigte Geschwindigkeit vom Signal an nicht zu überschreiten.",
+      "D) Das Signal zeigt an, dass der Fahrweg in das Streckengleis entgegen der gewöhnlichen Fahrtrichtung führt.",
+      "E) Bei Verwendung in größeren Bahnhöfen zeigt das Signal an, in welchen Bahnhofsteil die Fahrstraße führt"
+    ],
+    "antwort": "A, E"
+  },
+  {
+    "frage": "Welche Aussage(n) zur Räumungsprüfung trifft (treffen) auf Strecken mit selbsttätigem Streckenblock zu?",
+    "optionen": [
+      "A) Räumungsprüfstelle ist die Zugfolgestelle hinter dem Zugfolgeabschnitt.",
+      "B) Räumungsprüfstelle ist die Zugmeldestelle hinter dem Zugfolgeabschnitt.",
+      "C) Eine Räumungsprüfung müssen Sie durch Rückmelden bestätigen, wenn Sie als Fahrdienstleiter der Räumungsprüfstelle nicht zugleich Fahrdienstleiter der Zugfolgestelle sind, der die Fahrt in den Zugfolgeabschnitt zulässt.",
+      "D) Eine Räumungsprüfung müssen Sie stets durch Rückmelden an den rückgelegenen Fahrdienstleiter bestätigen.",
+      "E) Eine Räumungsprüfung müssen Sie stets durch Rückmelden an den vorgelegenen Fahrdienstleiter bestätigen."
+    ],
+    "antwort": "B, C"
+  },
+  {
+    "frage": "In welchem (welchen) der nachfolgenden Fälle muss das Gleis der freien Strecke nicht gesperrt werden?",
+    "optionen": [
+      "A) Es werden Fahrten eingelassen, die auch Rückwärtsbewegungen durchführen.",
+      "B) Es werden Fahrten bei ausgeschalteter oder gestörter Oberleitung durchgeführt.",
+      "C) Auf einer Strecke hält ein Zug aus unvorhergesehenem Anlass, der Tf muss den Zug untersuchen.",
+      "D) Es werden Fahrten zu einem auf freier Strecke liegengebliebenen Zug durchgeführt, der aus eigener Kraft nicht weiterfahren kann.",
+      "E) Es werden Kleinwagenfahrten durchgeführt."
+    ],
+    "antwort": "B, C"
+  },
+  {
+    "frage": "Während der Zugfahrt 1242 von Erle nach Kleinstadt wird am Bahnübergang in km 32,900 eine Zeitüberschreitungsmeldung ausgelöst. Welche Aussage(n) ist (sind) richtig?",
+    "optionen": [
+      "A) Der Fehlermelder leuchtet gelb und der Summer ertönt.",
+      "B) Der Einschalt- und der Zeitüberschreitungsmelder blinken gelb und der Summer ertönt.",
+      "C) Der Störungsmelder leuchtet rot und der Summer ertönt.",
+      "D) Sind alle Einschaltstrecken geräumt und die Zeitüberschreitungsmeldung leuchtet immer noch, ist dieses der EVZS zu melden.",
+      "E) Sind alle Einschaltstrecken geräumt und die Zeitüberschreitungsmeldung leuchtet immer noch, ist dieses der Notfallleitstelle zu melden."
+    ],
+    "antwort": "B, D"
+  },
+  {
+    "frage": "Wie wird das Nichterreichen der Endlage einer ferngestellten Weiche auf dem Stelltisch (Sp Dr S60) dargestellt?",
+    "optionen": [
+      "A) Der Weichenstörwecker ertönt.",
+      "B) Ein StÜM zeigt rotes Ruhelicht.",
+      "C) Der Weichenstörmelder blinkt rot.",
+      "D) Ein StÜM zeigt gelbes Blinklicht.",
+      "E) Der Blinklichtstörmelder zeigt gelbes Blinklicht."
+    ],
+    "antwort": "A, C, D"
   }
 ]
