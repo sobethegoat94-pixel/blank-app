@@ -36,7 +36,6 @@ def set_background_local(bild_pfad):
     }}
     </style>
     """
-    """
     st.markdown(css, unsafe_allow_html=True)
 
 def fragen_laden(dateiname="fragen.json"):
