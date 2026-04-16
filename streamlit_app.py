@@ -30,11 +30,12 @@ def set_background_local(bild_pfad):
         background-color: transparent; 
         padding: 2rem;
     }}
-    /* Zwingt den gesamten Text (Überschriften, normalen Text und Labels) zu Weiß */
-    .stApp p, .stApp h1, .stApp h2, .stApp h3, .stApp label, .stApp span {{
+    /* Macht den Standard-Text weiß, lässt aber unsere farbigen <span> Tags in Ruhe */
+    .stApp p, .stApp h1, .stApp h2, .stApp h3, .stApp label {{
         color: white !important;
     }}
     </style>
+    """
     """
     st.markdown(css, unsafe_allow_html=True)
 
