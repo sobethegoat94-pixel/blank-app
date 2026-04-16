@@ -79,10 +79,18 @@ st.title("🧠 Prüfungsvorbereitung FDL")
 if st.session_state.zustand == 'start':
     st.write("Willkommen! Teste dein Wissen. Wähle bei jeder Frage alle richtigen Antworten aus.")
     
+    # NEU: Auswahlmenü für die Anzahl der Fragen
+    gewuenschte_anzahl = st.selectbox(
+        "Wie viele Fragen möchtest du beantworten?",
+        options=[5, 10, 20],
+        index=1  # index=1 wählt standardmäßig die 10 aus
+    )
+    
     if st.button("Quiz starten", type="primary"):
         alle_fragen = fragen_laden()
         if alle_fragen:
-            anzahl = min(10, len(alle_fragen))
+            # Hier wird jetzt die ausgewählte Anzahl genutzt (oder das Maximum der vorhandenen Fragen)
+            anzahl = min(gewuenschte_anzahl, len(alle_fragen))
             st.session_state.fragen = random.sample(alle_fragen, anzahl)
             st.session_state.aktueller_index = 0
             st.session_state.punktestand = 0
