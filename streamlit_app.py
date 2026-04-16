@@ -13,7 +13,6 @@ def set_background_local(bild_pfad):
     with open(bild_pfad, "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read()).decode()
     
-    # NEU: Der CSS-Block wurde um die weiße Schriftfarbe erweitert
     css = f"""
     <style>
     .stApp {{
@@ -32,6 +31,21 @@ def set_background_local(bild_pfad):
     }}
     /* Macht den Standard-Text weiß, lässt aber unsere farbigen <span> Tags in Ruhe */
     .stApp p, .stApp h1, .stApp h2, .stApp h3, .stApp label {{
+        color: white !important;
+    }}
+    
+    /* NEU: Buttons Dunkelblau färben */
+    div.stButton > button {{
+        background-color: #00008B !important; /* Dunkelblau */
+        color: white !important;
+        border: 2px solid #00008B !important;
+        border-radius: 8px !important; /* Macht die Ecken leicht rund */
+    }}
+    
+    /* Hover-Effekt: Etwas helleres Blau, wenn man mit der Maus darüber fährt */
+    div.stButton > button:hover {{
+        background-color: #0000CD !important; 
+        border-color: #0000CD !important;
         color: white !important;
     }}
     </style>
