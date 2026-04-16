@@ -54,7 +54,7 @@ if 'zustand' not in st.session_state:
     st.session_state.punktestand = 0
     st.session_state.nutzer_auswahl = [] # Speichert die Auswahl für die Anzeige
 
-st.title("🧠 Das ultimative Bahn-Quiz!")
+st.title("🧠 Prüfungsvorbereitung FDL")
 
 # --- ZUSTAND: Startbildschirm ---
 if st.session_state.zustand == 'start':
@@ -63,7 +63,7 @@ if st.session_state.zustand == 'start':
     if st.button("Quiz starten", type="primary"):
         alle_fragen = fragen_laden()
         if alle_fragen:
-            anzahl = min(20, len(alle_fragen))
+            anzahl = min(10, len(alle_fragen))
             st.session_state.fragen = random.sample(alle_fragen, anzahl)
             st.session_state.aktueller_index = 0
             st.session_state.punktestand = 0
