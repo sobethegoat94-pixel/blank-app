@@ -7,12 +7,13 @@ import base64
 def set_background_local(bild_pfad):
     """Lädt ein lokales Bild, wandelt es um und setzt es als Hintergrund."""
     if not os.path.exists(bild_pfad):
-        st.warning(f"Hinweis: Das Hintergrundbild '{bild_pfad}' wurde nicht gefunden.")
+        st.warning(f"Hinweis: Das Hintergrundbild '{bild_pfad}' wurde nicht gefunden. Standard-Hintergrund wird geladen.")
         return
     
     with open(bild_pfad, "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read()).decode()
     
+    # NEU: Der CSS-Block wurde um die weiße Schriftfarbe erweitert
     css = f"""
     <style>
     .stApp {{
@@ -28,6 +29,10 @@ def set_background_local(bild_pfad):
     .block-container {{
         background-color: transparent; 
         padding: 2rem;
+    }}
+    /* Zwingt den gesamten Text (Überschriften, normalen Text und Labels) zu Weiß */
+    .stApp p, .stApp h1, .stApp h2, .stApp h3, .stApp label, .stApp span {{
+        color: white !important;
     }}
     </style>
     """
